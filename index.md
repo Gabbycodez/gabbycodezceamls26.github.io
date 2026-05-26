@@ -1,26 +1,20 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Gabriel Chambers
 description: My CEAMLS SAIRI Summer Research Site
-
-motto: "Curious about how research can shape better tools for everyday life."
-
+motto: "Building AI that's trustworthy, not just powerful."
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
-
-linkedin: https://www.linkedin.com/in/example
+  - "🎓 Senior, Computer Science @ Alabama A&M University"
+  - "📍 Based in Atlanta, GA"
+  - "🎬 Secretly a YouTube creator on the side"
+linkedin: https://www.linkedin.com/in/gabriel-chambers-005gc
 image: /assets/images/profile.svg
-
-# A "Currently" block — three short status lines for the home page.
 currently:
-  - label: Reading
-    text: "The Design of Everyday Things — Don Norman"
-  - label: Building
-    text: "A small Raspberry Pi sensor logging dashboard"
+  - label: Researching
+    text: "BioPersona — a physiologically grounded patient simulation system for evaluating clinical AI safety"
+  - label: Learning
+    text: "ML Foundations through Cornell's Break Through Tech AI Fellowship"
   - label: Wondering
-    text: "How accessibility research can shape consumer hardware"
+    text: "How we ensure AI systems stay safe when the stakes are someone's health"
 ---
