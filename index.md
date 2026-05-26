@@ -9,7 +9,7 @@ quick_facts:
   - "📍 Based in Atlanta, GA"
   - "🎬 Secretly a YouTube creator on the side"
 linkedin: https://www.linkedin.com/in/gabriel-chambers-005gc
-image: assets/images/IMG_3521 2.jpg
+image: assets/images/profile.svg
 currently:
   - label: Researching
     text: "BioPersona — a physiologically grounded patient simulation system for evaluating clinical AI safety"
