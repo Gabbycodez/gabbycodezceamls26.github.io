@@ -15,13 +15,6 @@ about:
     
     I'm also an AI Fellow at Cornell via Break Through Tech, building out my ML portfolio one project at a time.
   
-
-Hobbies:
-
-🎬 YouTube — I film and edit my own videos. Storytelling through a lens hits different.
-💄 Makeup & Hair — My creative outlet. Every look is its own little project.
-📱 TikTok — Yes, it's research. I'm studying the algorithm. (Okay, mostly just vibing.)
-
   hobbies:
     - icon: 🎬
       title: Making YouTube Videos
