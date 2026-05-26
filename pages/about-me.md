@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Gabriel Chambers
   role: Senior, Computer Science
-  image: /assets/images/profile.svg
+  image: /assets/images/IMG_3521 2.jpg
   linkedin: www.linkedin.com/in/gabriel-chambers-005gc
   bio: |
     Hi! I'm Gabriel, a Computer Science student at Alabama A&M University and current participant in the CEAMLS SAIRI Summer Research Program at Morgan State. 
