@@ -4,28 +4,36 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Alex Morgan
-  title: PhD Candidate, Computer Engineering
+  name: Ricky Gole
+  title: Graduate Research Mentor
   image: /assets/images/graduate-student-mentor.svg
-  website: https://example.com/alex-morgan
+  website:
   bio: |
-    Alex is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    Ricky is originally from Nepal and currently resides in Baltimore. He has been
+    supportive throughout my research experience and has helped me better understand
+    research workflows, collaboration, and the importance of adaptability in research.
 
-    Outside of research, Alex organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    He enjoys hiking, and one thing I learned about him is that his favorite food is
+    Nepalese dumplings, which I would love to try someday. Working alongside Ricky has
+    helped make the research environment more welcoming and collaborative.
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  title: Associate Professor, School of Engineering
+  name: Dr. Jamell Dacon
+  title: Assistant Professor
   image: /assets/images/faculty-mentor.svg
-  website: https://example.com/pat-nguyen
+  website:
   bio: |
-    Dr. Nguyen leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+    Dr. Jamell Dacon is an Assistant Professor from Trinidad and Tobago who currently
+    resides in Maryland. His research guidance has introduced me to literature reviews,
+    research paper structure, and the process of developing research ideas that have
+    real-world impact.
 
-    Dr. Nguyen has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+    Through this experience, I have learned about BioPersona, a physiologically
+    grounded patient simulation framework designed to evaluate the safety of clinical
+    dialogue systems using longitudinal biomarker data from Type 1 Diabetes patients.
+
+    Dr. Dacon has also introduced our team to working with large language models and
+    the backend systems that support them. He encourages adaptability, critical
+    thinking, and collaboration throughout the research process. Outside of research,
+    he enjoys Afrobeats, hiking, and working out.
 ---
