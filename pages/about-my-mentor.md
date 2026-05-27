@@ -6,7 +6,7 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Ricky Gole
   title: Graduate Research Mentor
-  image: /assets/images/graduate-student-mentor.svg
+  image: /assets/images/tauko.jpg
   website:
   bio: |
     Ricky is originally from Nepal and currently resides in Baltimore. He has been
