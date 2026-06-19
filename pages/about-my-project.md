@@ -32,10 +32,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
-  linkedin: https://www.linkedin.com/in/example
+  name: Ricky Gole
+  linkedin: https://www.linkedin.com/in/ricky-gole/
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
-  linkedin: https://www.linkedin.com/in/example
+  name: Dr. Jamell Dacon
+  linkedin: https://www.linkedin.com/in/jamelldacon/
 ---
