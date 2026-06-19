@@ -31,6 +31,6 @@ about:
       caption: My hometown!
     - image: /assets/images/IMG_3521 2.jpg
       caption: My favorite color :3
-    - image: /assets/images/_ (44).jpeg
+    - image: /assets/images/(44).jpeg
       caption: Makeup. makeup. MAkeUP.
 ---
