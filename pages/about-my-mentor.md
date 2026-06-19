@@ -28,10 +28,6 @@ faculty_mentor:
     research paper structure, and the process of developing research ideas that have
     real-world impact.
 
-    Through this experience, I have learned about BioPersona, a physiologically
-    grounded patient simulation framework designed to evaluate the safety of clinical
-    dialogue systems using longitudinal biomarker data from Type 1 Diabetes patients.
-
     Dr. Dacon has also introduced our team to working with large language models and
     the backend systems that support them. He encourages adaptability, critical
     thinking, and collaboration throughout the research process. Outside of research,
