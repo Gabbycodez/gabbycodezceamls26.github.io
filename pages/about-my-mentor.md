@@ -20,7 +20,7 @@ graduate_mentor:
 faculty_mentor:
   name: Dr. Jamell Dacon
   title: Assistant Professor
-  image: /assets/images/faculty-mentor.svg
+  image: /assets/images/profile-headshot.jpg
   website:
   bio: |
     Dr. Jamell Dacon is an Assistant Professor from Trinidad and Tobago who currently
