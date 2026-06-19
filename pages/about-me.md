@@ -27,7 +27,7 @@ about:
       description: Yes, it's research. I'm studying the algorithm. (Okay, mostly just doomscrolling.)
 
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: /assets/images/images (1).jpeg
       caption: My hometown!
     - image: /assets/images/gallery-2.svg
       caption: My favorite color :3
