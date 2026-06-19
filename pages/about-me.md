@@ -29,7 +29,7 @@ about:
   gallery:
     - image: /assets/images/images (1).jpeg
       caption: My hometown!
-    - image: /assets/images/IMG_3521 2.jpg
+    - image: /assets/images/doseofdaleah on IG ♡.jpeg
       caption: My favorite color :3
     - image: /assets/images/(44).jpeg
       caption: Makeup. makeup. MAkeUP.
