@@ -29,8 +29,8 @@ about:
   gallery:
     - image: /assets/images/images (1).jpeg
       caption: My hometown!
-    - image: /assets/images/gallery-2.svg
-      caption: My favorite color :3
     - image: /assets/images/IMG_3521 2.jpg
+      caption: My favorite color :3
+    - image: /assets/images/_ (44).jpeg
       caption: Makeup. makeup. MAkeUP.
 ---
