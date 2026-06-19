@@ -7,7 +7,7 @@ graduate_mentor:
   name: Ricky Gole
   title: Graduate Research Mentor
   image: /assets/images/tauko.jpg
-  website:
+  website: https://rickygole.github.io/
   bio: |
     Ricky is originally from Nepal and currently resides in Baltimore. He has been
     supportive throughout my research experience and has helped me better understand
@@ -21,7 +21,7 @@ faculty_mentor:
   name: Dr. Jamell Dacon
   title: Assistant Professor
   image: /assets/images/profile-headshot.jpg
-  website:
+  website: https://daconjam.github.io/#hero
   bio: |
     Dr. Jamell Dacon is an Assistant Professor from Trinidad and Tobago who currently
     resides in Maryland. His research guidance has introduced me to literature reviews,
