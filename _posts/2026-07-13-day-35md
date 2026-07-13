@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Day 35 — Refining Our Model and Research Paper"
+date: 2026-07-13
+permalink: /day35.html
+tags: ["research", "machine-learning", "sgof", "overleaf", "writing"]
+
+what_i_learned: |
+  Today I continued refining our Signal-Gated Omic Fusion (SGOF) model by testing different parameters and evaluating how they affected the model's performance. Making these adjustments helped me better understand that developing machine learning models is an iterative process that requires continuous testing and analysis.
+
+  I also compared the updated SGOF results with the baseline models we implemented earlier in the project. Looking at the results side by side allowed our team to evaluate whether our proposed approach is providing improvements and helped us better understand the strengths and limitations of each model.
+
+  In addition to model development, we continued working on our research paper in Overleaf. We refined different sections of the paper, updated our methodology and results where needed, and ensured that our writing clearly communicated the progress we have made throughout the project.
+
+  Overall, today's work helped connect the technical side of our research with the process of documenting our findings for others to understand.
+
+blockers: |
+  One challenge today was deciding which model changes led to meaningful improvements and which changes had little effect on performance. Comparing multiple experiments required careful analysis before drawing conclusions.
+
+reflection: |
+  Today reminded me that research is a process of continuous improvement. Each round of model tuning gives us a better understanding of our data and helps us move closer to developing the strongest possible approach.
+
+  I also enjoyed continuing work on our research paper because it gave me the opportunity to organize and communicate everything our team has accomplished over the past several weeks. Seeing both our models and our paper continue to improve has been rewarding.
+
+  Overall, today was another productive step toward completing our project. I feel more confident in both my machine learning skills and my ability to communicate technical research through scientific writing.
+---
